@@ -1,4 +1,4 @@
-var number = '25683';
+let number = '25683';
 
 // selecteer en zet het nummer
 document.getElementById('number') .innerHTML = number;

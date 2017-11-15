@@ -5,7 +5,7 @@
 for (i = 0;i<21;i++){
 
 	//wat is het restant?
-	var remainingnumber = i % 2;
+	let remainingnumber = i % 2;
 
 	//waneer het nummer dat overblijft hoger dan 0 is, is het odd
 	if ( remainingnumber > 0 ) {

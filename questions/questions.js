@@ -1,4 +1,4 @@
-var answer1;
+let answer1;
 
 
 //de input van question1 wordt answer1

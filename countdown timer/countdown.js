@@ -1,5 +1,5 @@
 //totale tijd
-var time;
+let time;
 time  = 61;
 
 //zet tijd neer
