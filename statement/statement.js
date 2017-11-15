@@ -8,5 +8,5 @@ for(i = 0; i < numbers.length; i++){
 		highest = numbers[i];
 	}
 }
-//selecteer de hoogste
+//presenteer de hoogste
 window.alert(highest);
