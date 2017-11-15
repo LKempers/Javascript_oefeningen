@@ -1,3 +1,5 @@
+"use strict"
+
 //totale tijd
 let time;
 time  = 61;

@@ -1,3 +1,5 @@
+"use strict"
+
 //de 5 nummers
 let numbers = [19, 2, 420, 6, 20];
 let highest = 0;

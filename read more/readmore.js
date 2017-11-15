@@ -1,3 +1,4 @@
+"use strict"
 
 //laat text verdwijnen vanaf begin
 function hide() {

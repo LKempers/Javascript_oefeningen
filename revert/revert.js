@@ -1,3 +1,5 @@
+"use strict"
+
 let number = '25683';
 
 // selecteer en zet het nummer
